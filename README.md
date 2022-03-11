@@ -28,7 +28,7 @@ It is not like the other bots which are being Suspended by Heroku. Hence, it can
 
 ## Heroku Salesforce Error Solution
 - Make a github Account.
-- Fork the [Repo](https://github.com/Teameviral/FIREX) First.
+- Fork the [Repo](https://github.com/Lucifer6989/FIREX) First.
 - Then go README.md and replace `Teameviral` to your forked github username.
    
 ### Get API_ID AND API_HASH 
